@@ -6,12 +6,23 @@ namespace User_Input
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(Calculate());
+        }
+
+        public static int Calculate()
+        {
             Console.WriteLine("Add two numbers together to see your answer...");
             Console.WriteLine("Type your first number...");
-            int num1 = Int32.Parse(Console.ReadLine());
+            string input1 = Console.ReadLine();
             Console.WriteLine("Type your second number...");
-            int num2 = Int32.Parse(Console.ReadLine());
-            Console.WriteLine($"your answer is {num1 + num2}");
+            string input2 = Console.ReadLine();
+
+            int num1 = int.Parse(input1);
+            int num2 = int.Parse(input2);
+
+            int answer = num1 + num2;
+            Console.WriteLine("Your answer is...");
+            return answer;
         }
     }
 }
