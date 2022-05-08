@@ -1,0 +1,16 @@
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.exe
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.deps.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.runtimeconfig.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.runtimeconfig.dev.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\bin\Debug\net5.0\Functions and Methods.pdb
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.csproj.AssemblyReference.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.AssemblyInfoInputs.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.AssemblyInfo.cs
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.csproj.CoreCompileInputs.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\refint\Functions and Methods.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.pdb
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\Functions and Methods.genruntimeconfig.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\Functions and Methods\obj\Debug\net5.0\ref\Functions and Methods.dll

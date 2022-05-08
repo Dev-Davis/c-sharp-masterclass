@@ -1,0 +1,16 @@
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.csproj.AssemblyReference.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.AssemblyInfoInputs.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.AssemblyInfo.cs
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.csproj.CoreCompileInputs.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.exe
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.deps.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.runtimeconfig.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.runtimeconfig.dev.json
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\bin\Debug\net5.0\User Input.pdb
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\refint\User Input.dll
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.pdb
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\User Input.genruntimeconfig.cache
+C:\Users\seand\Documents\C#\NamingConventionsAndCodingStandards\User Input\obj\Debug\net5.0\ref\User Input.dll
